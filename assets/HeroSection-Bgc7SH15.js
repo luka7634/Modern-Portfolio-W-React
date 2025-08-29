@@ -1,1 +1,0 @@
-import{j as e}from"./index-7lCDaYjF.js";const t=()=>e.jsxs("div",{className:"hero",children:[e.jsx("div",{className:"textaco",children:e.jsx("p",{children:"Crafting epic interfaces where every component matters"})}),e.jsx("div",{className:"dig",children:e.jsx("button",{children:"Let's create something exceptional!"})})]});export{t as default};
